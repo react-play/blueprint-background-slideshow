@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "outDir": "js",
+        "module": "system"
+    },
+    "compileOnSave": true,
+    "files": [],
+    "filesGlob": [
+        "ts/*.ts",
+        "ts/*.tsx"
+    ]
+}
